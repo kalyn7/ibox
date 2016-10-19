@@ -8,7 +8,6 @@ import java.util.ArrayList;
 import org.junit.BeforeClass;
 
 import com.google.api.client.http.AbstractInputStreamContent;
-import com.google.api.client.http.FileContent;
 import com.google.api.services.drive.Drive;
 import com.google.api.services.drive.Drive.Files;
 import com.google.api.services.drive.Drive.Files.Delete;
